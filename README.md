@@ -1,2 +1,0 @@
-# assignment
-attendance management system
